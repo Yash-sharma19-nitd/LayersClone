@@ -13,6 +13,8 @@ module.exports = {
       'small':{'max':'1030px'}
     }
   },
-  plugins: [],
+  plugins: [
+    
+  ],
 }
 
