@@ -9,7 +9,8 @@ module.exports = {
     extend: {},
     screens:
     {
-      'vsmall':{'max':'370px'},
+      'vvsmall':{'max':'320px'},
+      'vsmall':{'max':'750px'},
       'small':{'max':'1030px'}
     }
   },
